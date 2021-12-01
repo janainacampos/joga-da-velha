@@ -1,0 +1,10 @@
+C:\Users\janap\source\repos\Velha.1\Velha.1\obj\Debug\Velha.1.csprojAssemblyReference.cache
+C:\Users\janap\source\repos\Velha.1\Velha.1\obj\Debug\Velha._1.Form1.resources
+C:\Users\janap\source\repos\Velha.1\Velha.1\obj\Debug\Velha._1.Properties.Resources.resources
+C:\Users\janap\source\repos\Velha.1\Velha.1\obj\Debug\Velha.1.csproj.GenerateResource.cache
+C:\Users\janap\source\repos\Velha.1\Velha.1\obj\Debug\Velha.1.csproj.CoreCompileInputs.cache
+C:\Users\janap\source\repos\Velha.1\Velha.1\bin\Debug\Velha.1.exe.config
+C:\Users\janap\source\repos\Velha.1\Velha.1\bin\Debug\Velha.1.exe
+C:\Users\janap\source\repos\Velha.1\Velha.1\bin\Debug\Velha.1.pdb
+C:\Users\janap\source\repos\Velha.1\Velha.1\obj\Debug\Velha.1.exe
+C:\Users\janap\source\repos\Velha.1\Velha.1\obj\Debug\Velha.1.pdb
